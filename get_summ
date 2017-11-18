@@ -1,0 +1,6 @@
+name = 'Vadim'
+def get_summ (one):
+    print(one.upper())
+get_summ (name)
+
+
